@@ -14,3 +14,7 @@ alias la='ls -alF'
 alias ll='ls -A'
 alias l='ls -CF'
 
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH=$BUN_INSTALL/bin:$PATH
