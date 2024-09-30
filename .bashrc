@@ -13,6 +13,11 @@ alias ls='ls --color=auto'
 alias la='ls -alF'
 alias ll='ls -A'
 alias l='ls -CF'
+alias cl='clear'
+alias git a='git add -A'
+alias git c='git commit -m'
+alias git psh ='git push origin main'
+alias git pll ='git pull origin main'
 
 
 # bun
