@@ -1,4 +1,5 @@
 --·luacheck: ignore·vim
+print("Hello, Lua!")
 require·"user.options"
 require·"user.keymaps"
 
